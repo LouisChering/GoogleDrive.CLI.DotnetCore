@@ -2,6 +2,12 @@
 
 This is a .net core command line project that use the drivenet core class library
 
+## Pre-requisites
+To communicate with the Google Drive API you need to have setup a project within the Google Cloud Console and have provisioned some endpoints.
+
+[See this page for instructions](https://developers.google.com/drive/api/v3/quickstart/nodejs)
+
+You will need the credentials.json file generated as a result of this process. This is the final part of step 1.
 
 ## Build
 ```
