@@ -1,6 +1,6 @@
 # Google drive project CLI
 
-This is a .net core command line project that use the drivenet core class library
+This project is an implementation of the Google Drive .net core class library exposed as a command line interface.  Includes use of listing and downloading files from a central Google Drive folder.
 
 ## Pre-requisites
 To communicate with the Google Drive API you need to have setup a project within the Google Cloud Console and have provisioned some endpoints.
